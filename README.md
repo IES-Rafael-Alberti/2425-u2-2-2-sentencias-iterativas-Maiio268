@@ -11,23 +11,23 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
+- **ID de la Actividad:** 2425-u2-2-2-sentencias-iterativas-Maiio268
+- **Módulo:** PROG
+- **Unidad de Trabajo:** Unidad 2: Sentencias condicionales y repetitivas
 - **Fecha de Creación:** [Fecha de creación]
 - **Fecha de Entrega:** [Fecha de entrega]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Mario Montes Bermúdez
+  - **Correo electrónico:** mmonber326@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** MMB
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+La actividad consiste en programar en Python los ejercicios propuestos por el profesor, el contexto de las actividades son las sentencias iterativas y saltos.
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - Python 3.11
+   - Visual Studio Code
 
 2. **Pasos para Compilar el Código:**
    ```bash
@@ -36,7 +36,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 3. **Pasos para Ejecutar el Código:**
    ```bash
-   [Comando para ejecutar la aplicación]
+   python3
    ```
 
 4. **Ejecución de Pruebas:**
@@ -46,7 +46,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
+Se ha abordado el desarrollo de la actividad programando en python los enunciados propuestos por el profesor.
 
 ### Código Fuente
 [Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
